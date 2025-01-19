@@ -1,1 +1,1 @@
-# Mini-Game-using-C--and-it-s-libraries
+# Mini-Game-using-C++and-it-s-libraries
