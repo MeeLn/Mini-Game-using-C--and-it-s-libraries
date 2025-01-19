@@ -35,13 +35,13 @@ The game features dynamic mechanics like jumping and gravity manipulation, makin
 ---
 
 ## Controls
-| Action                | Key               |
-|-----------------------|-----------------  |
-| Jump                 | `Space`            |
-| Flip Gravity         | `Up Arrow`         |
-| Reset Gravity        | `Down Arrow`       |
-| Restart Game         | `Play Again Button'|
-| Quit Game            | `X button on top`  |
+| Action                | Key                |
+|-----------------------|--------------------|
+| Jump                  | `Space`            |
+| Flip Gravity          | `Up Arrow`         |
+| Reset Gravity         | `Down Arrow`       |
+| Restart Game          | `Play Again Button`|
+| Quit Game             | `X button on top`  |
 
 ---
 
@@ -69,3 +69,4 @@ The game features dynamic mechanics like jumping and gravity manipulation, makin
 1. Clone the repository:
 2. Open the project using Visual Studio
 3. Run the Code
+[Note: SDL2\include path must be included addtitional include direcotries in project properties C/C++ section and SDL2\lib\x64 path must be included in additional libraries directories in linker section. SDL2 libraries is in my SDL2 repo, you can find it there.]
